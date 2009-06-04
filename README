@@ -16,7 +16,7 @@ implement  all of  X3D's tag  elements.  All  the  results  were  tested using
 FreeWRL.
 
 
-It is the aim of Andrew's fork to fully implement the entire X3D spec, as I have a pretty advanced need for a more then less complete X3D library in Ruby.
+It is the aim of Andrew's fork to fully implement the entire X3D spec, as I have a pretty advanced need for a more than less complete X3D library in Ruby.
 
 This includes the following specs:
 ISO-IEC-19774 		Humanoid Animation
