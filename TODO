@@ -1,4 +1,12 @@
-= TODO
+Andrew's Todo list:
+
+* Reorganize the code to facilitate a easier way of reading specifications and dropping them into the lib.
+* make this thing a ruby gem
+* start writing unit tests to verify correctness in code.
+
+------------------
+
+= LEGACY TODO
 
 The library's development was driven by a Virtual Reality project that I was
 doing. As thus, only the tags that I needed were implemented. If I were to
